@@ -1,0 +1,20 @@
+# Setup
+title:            Aaron Cox
+tagline:          'A Jekyll theme'
+description:      'Software Engineer'
+url:              https://aaroncox.dev
+baseurl:          ''
+paginate:         5
+
+# About and contact
+author:
+  name:           'Aaron Cox'
+  url:            https://aaroncox.dev
+
+# Gems
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+
+# Custom vars
+version:          3.0.0
