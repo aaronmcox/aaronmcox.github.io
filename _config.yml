@@ -22,3 +22,6 @@ plugins:
 
 # Custom vars
 version: 3.0.0
+
+exclude:
+ - .idea/
